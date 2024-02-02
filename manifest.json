@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "quarto-static",
+    "content_category": "site"
+  },
+  "quarto": {
+    "version": "1.4.549",
+    "engines": [
+      "markdown"
+    ]
+  },
+  "files": {
+    ".Rprofile": {
+      "checksum": "57f9047cb06fdbef821b61f49e21406e"
+    },
+    ".gitignore": {
+      "checksum": "3ee66d342e38c5fd809db09497c3a2d5"
+    },
+    ".python-version": {
+      "checksum": "f0e062cdbcb64e27b4fc16c786020792"
+    },
+    "_quarto.yml": {
+      "checksum": "a1875bbda2220027130eab1cd90204af"
+    },
+    "end-user-onboarding.Rproj": {
+      "checksum": "c8d3f84a410f46d4d8b03a268e313e35"
+    },
+    "images/logo-team-full-color.svg": {
+      "checksum": "9e38645012975ac149e20aac34f0a220"
+    },
+    "index.qmd": {
+      "checksum": "084a78a262a1e67fee5e9907703a1397"
+    },
+    "quarto_hex.png": {
+      "checksum": "686572345d94831896d370b2a3e572a0"
+    },
+    "renv.lock": {
+      "checksum": "65520a7d3548107d4f4be9d4205df539"
+    },
+    "styles.css": {
+      "checksum": "d21b253eb00858fd3fc63ac7fff9cbc5"
+    },
+    "thumbnails/advancing-quarto.png": {
+      "checksum": "bb948fce4b7737df9e9076ab7228c7bd"
+    },
+    "thumbnails/advancing-shiny.png": {
+      "checksum": "00f0466a79f57d4813ab12b42c48cd2f"
+    },
+    "thumbnails/git-backed.png": {
+      "checksum": "fbe3ef7595bf7f5aa5043e7f830673d1"
+    },
+    "thumbnails/intro-to-quarto.png": {
+      "checksum": "130e3842cead7f3eb78c586b22b005ec"
+    },
+    "thumbnails/intro-to-shiny.png": {
+      "checksum": "8486b513e5cd5e123c73ddda2095086c"
+    },
+    "thumbnails/pst-welcome.png": {
+      "checksum": "19f2c88ec63e35a7dbd24025c1f47a4a"
+    },
+    "thumbnails/quarto-jupyter.png": {
+      "checksum": "db7d3064d53f4e24c55c1f0931c20664"
+    },
+    "thumbnails/quarto-publish.png": {
+      "checksum": "dba10aae7b071f1f8f87b44aad15d410"
+    },
+    "thumbnails/quarto-rstudio.png": {
+      "checksum": "2f6696e2bb713e14e80a815b36d6c931"
+    },
+    "thumbnails/quarto-vscode.png": {
+      "checksum": "3a061a9e56f5899f001ee864b7d30639"
+    },
+    "thumbnails/shiny-publish.png": {
+      "checksum": "cf5a08350b7bb29a706633bd4dc70ed0"
+    },
+    "thumbnails/shiny-python.png": {
+      "checksum": "9787c411002203bb62d18c1b4761dad6"
+    },
+    "thumbnails/shiny-r.png": {
+      "checksum": "329a55872f9449f3414291486abb2b76"
+    }
+  }
+}
